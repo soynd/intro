@@ -7,11 +7,6 @@
 [![No login](https://img.shields.io/badge/login-not%20required-FF5A5F)](#)
 [![APK](https://img.shields.io/badge/APK-2.2%20MB-1F6FEB)](../../releases/tag/intro)
 
-<table>
-  <tr>
-    <td><img src="https://github.com/soynd/intro/releases/download/intro/ss-dark.jpg" width="300" alt="intro dark theme" /></td>
-    <td><img src="https://github.com/soynd/intro/releases/download/intro/ss-light.jpg" width="300" alt="intro light theme" /></td>
-  </tr>
-</table>
+<img src="https://github.com/soynd/intro/releases/download/intro/ss-dark.png" width="300" alt="intro dark theme" />&nbsp;&nbsp;<img src="https://github.com/soynd/intro/releases/download/intro/ss-light.png" width="300" alt="intro light theme" />
 
 </div>
