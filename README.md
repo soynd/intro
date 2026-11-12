@@ -10,3 +10,25 @@
 <img src="https://github.com/soynd/intro/releases/download/intro/ss-dark.png" width="300" alt="intro dark theme" />&nbsp;&nbsp;<img src="https://github.com/soynd/intro/releases/download/intro/ss-light.png" width="300" alt="intro light theme" />
 
 </div>
+
+## Features
+
+- No login, no ads
+- Search as you type
+- For You feed learns from your searches
+- Two-column masonry, infinite scroll
+- Pin detail with more like this
+- Save, download, share pins
+- RCAS sharpening
+- Material You dark and light
+- Clear cache and algorithm in settings
+
+## Build
+
+Needs JDK 17, Android SDK 35, Gradle 8.9.
+
+```bash
+gradle :app:assembleRelease
+```
+
+APK: `app/build/outputs/apk/release/app-release.apk`
