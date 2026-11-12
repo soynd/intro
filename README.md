@@ -14,7 +14,7 @@
 ## Features
 
 - No login, no ads
-- For You feed learns from your searches
+- Feed learns from your searches (local ofc)
 - Save, download, share pins
 - RCAS sharpening (Useless most of time)
 
