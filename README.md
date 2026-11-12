@@ -14,14 +14,9 @@
 ## Features
 
 - No login, no ads
-- Search as you type
 - For You feed learns from your searches
-- Two-column masonry, infinite scroll
-- Pin detail with more like this
 - Save, download, share pins
-- RCAS sharpening
-- Material You dark and light
-- Clear cache and algorithm in settings
+- RCAS sharpening (Useless most of time)
 
 ## Build
 
