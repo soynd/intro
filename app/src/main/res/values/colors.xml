@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="accent">#FF5A5F</color>
+    <color name="accent_dark">#D9363E</color>
+    <color name="accent_soft">#FFE3E3</color>
+    <color name="bg">#FBFAF7</color>
+    <color name="surface">#FFFFFF</color>
+    <color name="text">#151515</color>
+    <color name="text2">#6F6B66</color>
+    <color name="placeholder">#E9E6E0</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="ripple">#1F000000</color>
+    <color name="scrim">#66000000</color>
+    <color name="photo_bg">#0A0A0A</color>
+</resources>

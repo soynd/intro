@@ -1,0 +1,5 @@
+-keep class com.pintro.app.Pin { *; }
+-keep class com.pintro.app.PinterestClient$Page { *; }
+-dontwarn org.conscrypt.**
+-dontwarn org.bouncycastle.**
+-dontwarn org.openjsse.**
