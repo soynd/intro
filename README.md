@@ -1,6 +1,6 @@
 <div align="center">
 
-**Ad-free Pinterest client**
+**Android only Ad-free Pinterest client**
 
 [![Android](https://img.shields.io/badge/Android-8.0%2B-3DDC84?logo=android&logoColor=white)](https://developer.android.com)
 [![Material You](https://img.shields.io/badge/Material-You-6750A4)](https://m3.material.io)
